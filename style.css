@@ -1,0 +1,26 @@
+.card {
+  width: 300px;
+  margin: 10px;
+  box-sizing: border-box;
+  box-shadow: 2px 3px 4px black;
+}
+.image-style {
+  width: 100%;
+}
+.card-body{
+    padding: 5px;
+    background-color: aqua;
+}
+.card-body:hover{
+    background-color: burlywood;
+}
+.card-title{
+    font-size: 2rem;
+    text-align: center;
+}
+.card-discription{
+    text-align: justify;
+}
+.card:hover{
+    box-shadow: 5px 10px 7px red;
+}
